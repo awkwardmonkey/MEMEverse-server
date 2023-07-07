@@ -1,4 +1,4 @@
-# Memeland Memeverse
+# MEMEverse Server
 
 Memeverse Server for Memeland implemented in [NodeJS]/[ExpressJS]/[TypeScript].
 
